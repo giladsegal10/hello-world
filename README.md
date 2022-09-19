@@ -7,7 +7,9 @@ I am learning how to use GitHub!
 watching tutorial on YouTube.
 
 
-## this is a test subheader
+## this is a second test
+now I'm using my own computer
+
 
 
 
